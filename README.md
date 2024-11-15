@@ -56,7 +56,9 @@ Step 12:- How to capture screenshot, video, report generation and page object mo
 
 
 This repository aligns with the content explained in the YouTube video. Below are the key topics:
+
+[YouTube Video](https://www.youtube.com/watch?v=rSvH2LOt4Ww)
+
 ```html
   <a href="https://www.youtube.com/watch?v=your-video-id" target="_blank">Watch the YouTube Video</a>
   
-
